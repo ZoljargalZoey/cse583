@@ -1,0 +1,1 @@
+I followed all instructons and asked Claude the python commands to use to complete the tasks. I edited the hw1.py file for each tasks and run python hw1.py on another terminal at the same time when needed to see the results.
